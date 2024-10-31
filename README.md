@@ -3,7 +3,7 @@ The goal of this enhancement project is to understand the existing <a href="http
 Your existing <a href="https://learning.ccbp.in/question/d595dd02-c5d0-4330-bd3d-ac0275b02d8a" target="_blank_">Nxt Trendz</a> app, which you have developed, allows users to log in, search for your products, sort, filter, and add products to the cart.
 
 ### Enhancement Functionality
-###Live : https://enhnnxttrendz.ccbp.tech/login
+# Live : https://enhnnxttrendz.ccbp.tech/login
 
 <details>
 <summary>Functionalities to be added</summary>
